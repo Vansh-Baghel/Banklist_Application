@@ -1,5 +1,5 @@
 # Banklist_Application
-**A complete interactive website. I created this website for learning the concepts of JS, and it uses alot of cool functions.**
+**A complete interactive website. I created this website for learning the concepts of JS, and it uses alot of various functions.**
 # Rules 
 1. Login with _User_ :- **js , jd , stw**  ; _Pin_ :- **1111, 2222 , 3333**  (respectively). Once you login , you can see _welcome_ text on the left top with the first name of the account holder 
 2. You can transfer money to other user mentioned up (for eg:- jd) . (Dont forget to see the account you transfered in (eg:- here jd , 2222) , there money will be added if you login to it and money will be subtracted from current account.)
